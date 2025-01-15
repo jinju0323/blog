@@ -17,10 +17,6 @@ export const sharedPageComponents: SharedLayout = {
         category: 'Announcements',
         // data-category-id
         categoryId: 'DIC_kwDONqhZ1s4CmCJ9',
-        // theme
-        themeUrl: "https://jinju.pages.dev", // corresponds to quartz/static/giscus/
-        lightTheme: "light-theme",
-        darkTheme: "dark-theme",
       }
     }),
   ],
