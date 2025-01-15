@@ -1,4 +1,5 @@
 ---
-title: Welcome
+title: Home
+sticker: emoji//1f680
 ---
-Welcome to my blog!
+Hello🖐️ Welcome to my blog! I'm **Sim Jinju**. I made this blog to share my usual thoughts, Obsidian.
