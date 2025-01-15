@@ -17,27 +17,12 @@ export const sharedPageComponents: SharedLayout = {
         category: 'Announcements',
         // data-category-id
         categoryId: 'DIC_kwDONqhZ1s4CmCJ9',
+        // theme
+        themeUrl: "https://example.com/static/giscus", // corresponds to quartz/static/giscus/
+        lightTheme: "light-theme",
+        darkTheme: "dark-theme",
       }
     }),
-    {
-      type: 'script',
-      props: {
-        src: 'https://giscus.app/client.js',
-        'data-repo': 'jinju0323/blog',
-        'data-repo-id': 'R_kgDONqhZ1g',
-        'data-category': 'Announcements',
-        'data-category-id': 'DIC_kwDONqhZ1s4CmCJ9',
-        'data-mapping': 'pathname',
-        'data-strict': '0',
-        'data-reactions-enabled': '1',
-        'data-emit-metadata': '0',
-        'data-input-position': 'bottom',
-        'data-theme': 'light',
-        'data-lang': 'ko',
-        crossorigin: 'anonymous',
-        async: true,
-      },
-    },
   ],
   footer: Component.Footer({
     links: {
