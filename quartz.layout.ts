@@ -16,6 +16,9 @@ export const sharedPageComponents: SharedLayout = {
         mapping: 'pathname', // URL 매핑 방식
         reactionsEnabled: true, // 반응(이모지) 사용 여부
         inputPosition: 'bottom', // 댓글 입력창 위치
+        themeUrl: 'https://example.com/static/giscus',
+        lightTheme: 'light', // 라이트 테마
+        darkTheme: 'dark', // 다크 테마
       }
     }),
   ],
