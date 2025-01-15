@@ -9,14 +9,13 @@ export const sharedPageComponents: SharedLayout = {
     Component.Comments({
       provider: 'giscus',
       options: {
-        // data-repo
-        repo: 'jinju0323/blog',
-        // data-repo-id
-        repoId: 'R_kgDONqhZ1g',
-        // data-category
-        category: 'Announcements',
-        // data-category-id
-        categoryId: 'DIC_kwDONqhZ1s4CmCJ9',
+        repo: 'jinju0323/blog', // 본인의 리포지토리로 변경
+        repoId: 'R_kgDONqhZ1g', // 본인의 리포지토리 ID로 변경
+        category: 'General', // Discussions 카테고리 이름
+        categoryId: 'DIC_kwDONqhZ1s4CmCJ9', // Discussions 카테고리 ID
+        mapping: 'pathname', // URL 매핑 방식
+        reactionsEnabled: true, // 반응(이모지) 사용 여부
+        inputPosition: 'bottom', // 댓글 입력창 위치
       }
     }),
   ],
