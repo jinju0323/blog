@@ -12,7 +12,7 @@ export const sharedPageComponents: SharedLayout = {
         // data-repo
         repo: 'jinju0323/blog',
         // data-repo-id
-        repoId: 'R_kgDONqhZ1g',
+        repoId: 'R_kgDOLKhz-Q',
         // data-category
         category: 'Announcements',
         // data-category-id
