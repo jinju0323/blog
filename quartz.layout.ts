@@ -10,9 +10,9 @@ export const sharedPageComponents: SharedLayout = {
       provider: 'giscus',
       options: {
         // data-repo
-        repo: 'anpigon/anpigon-quartz',
+        repo: 'jinju0323/blog',
         // data-repo-id
-        repoId: 'R_kgDOLKhz-Q',
+        repoId: 'R_kgDONqhZ1g',
         // data-category
         category: 'Announcements',
         // data-category-id
