@@ -13,12 +13,12 @@ export const sharedPageComponents: SharedLayout = {
         repoId: 'R_kgDONqhZ1g', // 본인의 리포지토리 ID로 변경
         category: 'General', // Discussions 카테고리 이름
         categoryId: 'DIC_kwDONqhZ1s4CmCJ9', // Discussions 카테고리 ID
-        mapping: 'pathname', // URL 매핑 방식
-        reactionsEnabled: true, // 반응(이모지) 사용 여부
-        inputPosition: 'bottom', // 댓글 입력창 위치
-        themeUrl: 'https://example.com/static/giscus',
-        lightTheme: 'light', // 라이트 테마
-        darkTheme: 'dark', // 다크 테마
+        // mapping: 'pathname', // URL 매핑 방식
+        // reactionsEnabled: true, // 반응(이모지) 사용 여부
+        // inputPosition: 'bottom', // 댓글 입력창 위치
+        // themeUrl: 'https://example.com/static/giscus',
+        // lightTheme: 'light', // 라이트 테마
+        // darkTheme: 'dark', // 다크 테마
       }
     }),
   ],
