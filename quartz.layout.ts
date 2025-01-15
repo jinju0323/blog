@@ -18,7 +18,7 @@ export const sharedPageComponents: SharedLayout = {
         // data-category-id
         categoryId: 'DIC_kwDONqhZ1s4CmCJ9',
         // theme
-        themeUrl: "https://example.com/static/giscus", // corresponds to quartz/static/giscus/
+        themeUrl: "https://jinju.pages.dev", // corresponds to quartz/static/giscus/
         lightTheme: "light-theme",
         darkTheme: "dark-theme",
       }
