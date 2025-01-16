@@ -11,7 +11,7 @@ export const sharedPageComponents: SharedLayout = {
       options: {
         repo: 'jinju0323/blog', // 본인의 리포지토리로 변경
         repoId: 'R_kgDONqhZ1g', // 본인의 리포지토리 ID로 변경
-        category: 'General', // Discussions 카테고리 이름
+        category: 'Announcements', // Discussions 카테고리 이름
         categoryId: 'DIC_kwDONqhZ1s4CmCJ9', // Discussions 카테고리 ID
         // mapping: 'pathname', // URL 매핑 방식
         // reactionsEnabled: true, // 반응(이모지) 사용 여부
